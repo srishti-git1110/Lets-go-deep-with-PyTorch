@@ -13,3 +13,5 @@ Project for educational purpose only.
 <br/> Since I like technical writing, I also write blogs about PyTorch as I learn it. Find links to them -
 
 <br/> [Your PyTorch 101 Tutorial](https://wandb.ai/srishti-gureja-wandb/posts/Create-your-First-Neural-Net-in-PyTorch-Line-by-Line-Explanation--VmlldzoyMDM1Mzky?discussionThread=RGlzY3Vzc2lvblRocmVhZDozNjYz&wbreferrer=view-comment-alert) 
+
+<br/> Coming Soon: Dataset And the New Datapipe - PyTorch keeps making life easier for Deep Learners!
