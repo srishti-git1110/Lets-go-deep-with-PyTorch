@@ -14,5 +14,6 @@ Project for educational purpose only.
 
 <br/> [Your PyTorch 101 Tutorial](https://wandb.ai/srishti-gureja-wandb/posts/Create-your-First-Neural-Net-in-PyTorch-Line-by-Line-Explanation--VmlldzoyMDM1Mzky?discussionThread=RGlzY3Vzc2lvblRocmVhZDozNjYz&wbreferrer=view-comment-alert) 
 
-<br/> Coming Soon: Dataset, DataLoader And the New Datapipe - PyTorch keeps making life easier for Deep Learners!
+<br/> [Dataset, DataLoader And the New Datapipe - PyTorch keeps making life easier for Deep Learners!](https://wandb.ai/srishti-gureja-wandb/posts/Data-is-all-you-need-Let-PyTorch-make-it-easier-for-you---VmlldzoyNDMxNzM1)
+
 <br/> Coming Soon: PyTorch Autograd and backward hooks - Let's see under the hood!
