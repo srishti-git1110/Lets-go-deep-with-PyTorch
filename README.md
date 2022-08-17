@@ -1,6 +1,5 @@
 # Learning Pytorch
-First of all - PyTorch isn't a Framework!
-It's a library having tensors as its core data structure providing an extensive set of operations on them via the torch module.
+PyTorch is an open source DL library having tensors as its core data structure providing an extensive set of operations on them via the torch module.
 <br/>
 
 <br/>
